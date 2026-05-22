@@ -1,0 +1,34 @@
+{
+  "name": "code-knowledge-graph",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "ckg": "node --loader ts-node/esm src/index.ts",
+    "index": "npm run ckg -- index",
+    "query": "npm run ckg -- query",
+    "mcp": "npm run ckg -- mcp",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishandutta2007/Code-Knowledge-Graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ishandutta2007/Code-Knowledge-Graph/issues"
+  },
+  "homepage": "https://github.com/ishandutta2007/Code-Knowledge-Graph#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@types/node": "^25.9.1",
+    "glob": "^13.0.6",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}

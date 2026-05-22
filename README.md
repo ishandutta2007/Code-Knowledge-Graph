@@ -59,26 +59,40 @@
 ### 1. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Code-Knowledge-Graph.git
+git clone https://github.com/ishandutta2007/Code-Knowledge-Graph.git
 
 # Navigate to the directory
 cd Code-Knowledge-Graph
 
 # Install dependencies
-npm install  # or pip install -r requirements.txt
+npm install
 ```
 
 ### 2. Index your codebase
 ```bash
-ckg index ./path/to/your/project
+npm run ckg -- index ./path/to/your/project
 ```
 
-### 3. Connect your Agent
-Add the following to your agent's configuration:
+### 3. Query the graph
+```bash
+npm run ckg -- query SymbolName
+```
+
+### 4. Run the MCP Server
+To use this with Claude Code or other MCP-compatible agents:
+```bash
+npm run mcp
+```
+Then add it to your agent's config (e.g., in `claude_desktop_config.json`):
 ```json
 {
-  "knowledge_source": "local-graph",
-  "path": "./ckg-index.json"
+  "mcpServers": {
+    "code-knowledge-graph": {
+      "command": "node",
+      "args": ["--loader", "ts-node/esm", "C:/path/to/Code-Knowledge-Graph/src/index.ts", "mcp"],
+      "cwd": "C:/path/to/Code-Knowledge-Graph"
+    }
+  }
 }
 ```
 

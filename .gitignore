@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.ckg-index.db
+.ckg-index.db-journal
+*.log
+.env
