@@ -132,6 +132,6 @@ Contributions are what make the open source community such an amazing place to l
 
 Built with ❤️ for the AI Engineering Community.
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/your_handle?style=social)](https://twitter.com/your_handle)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=social)](https://twitter.com/ishandutta2007)
 
 </div>
