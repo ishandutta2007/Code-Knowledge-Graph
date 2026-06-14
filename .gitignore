@@ -1,6 +1,7 @@
-node_modules/
-dist/
-.ckg-index.db
-.ckg-index.db-journal
-*.log
-.env
+*.bak
+*.bk
+*.env
+.cache
+__pycache__/*
+contributors.txt
+temp_repo_clone
