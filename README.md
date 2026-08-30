@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![Code Knowledge Graph Banner](assets/banner.svg)
 
 **The Pre-indexed Intelligence Layer for your AI Agents**
 
