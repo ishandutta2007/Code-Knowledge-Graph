@@ -6,10 +6,12 @@
 
 **The Pre-indexed Intelligence Layer for your AI Agents**
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Local Only](https://img.shields.io/badge/Privacy-100%25%20Local-brightgreen.svg)](#)
 [![Efficiency](https://img.shields.io/badge/Efficiency-High-blue.svg)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -114,17 +116,16 @@ Traditional AI agents spend **~40% of their tokens** just trying to find where a
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. 🍴 Fork the Project
+2. 🌿 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. 🚀 Push to the Branch (`git push origin feature/AmazingFeature`)
+5. 📬 Open a Pull Request
 
 ---
 
-### 📈 Project Velocity
-
-![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Code-Knowledge-Graph&type=date&theme=dark)
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Code-Knowledge-Graph&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Code-Knowledge-Graph&type=date&legend=top-left)
 
 ---
 
